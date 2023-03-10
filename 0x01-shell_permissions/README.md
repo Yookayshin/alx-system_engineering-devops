@@ -8,3 +8,4 @@
 7-grant permission to evrybody to execute
 8-set permission for othe rusers alone
 9-specific permission
+10-mirror permission
