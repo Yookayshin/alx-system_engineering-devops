@@ -5,3 +5,4 @@
 4-creates an empty file called hello
 5-grants execute permission
 6-grants multiple permission
+7-grant permission to evrybody to execute
