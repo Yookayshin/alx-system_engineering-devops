@@ -4,3 +4,4 @@
 3-script that changes owner of file /hello to the user 'betty'
 4-creates an empty file called hello
 5-grants execute permission
+6-grants multiple permission
