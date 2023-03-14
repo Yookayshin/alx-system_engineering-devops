@@ -5,3 +5,4 @@
 4-dispaly last 10 lines
 5-display first 10 lines
 7-funny file name
+9-duplicate last line of a file
