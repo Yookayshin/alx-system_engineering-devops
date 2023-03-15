@@ -4,3 +4,4 @@
 4-print environment variables
 print all variables
 6-create local variable
+7-create global variable
