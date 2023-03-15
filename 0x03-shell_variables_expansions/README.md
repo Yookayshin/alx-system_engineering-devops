@@ -7,3 +7,4 @@ print all variables
 7-create global variable
 8-addition
 9-division
+10-exponential
