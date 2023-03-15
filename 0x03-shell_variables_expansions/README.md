@@ -3,3 +3,4 @@
 2-adding dir as last in path command
 4-print environment variables
 print all variables
+6-create local variable
